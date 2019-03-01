@@ -1,0 +1,16 @@
+---
+ops_controller:
+        host_name: controller.openstack.dev
+        ip: "192.168.33.101"
+        memory: 8192
+        cpus: 2
+ops_compute1:
+        host_name: compute1.openstack.dev
+        ip: "192.168.33.102"
+        memory: 8192
+        cpus: 4
+ops_compute2:
+        host_name: compute2.openstack.dev
+        ip: "192.168.33.103"
+        memory: 8192
+        cpus: 4
